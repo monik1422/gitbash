@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "updated Flask sample application on azure hghapp service updated verrsion-4"
+    return "updated Flask sample application on AWS High Availability service, updated version-4."
 
 
 if __name__ == "__main__":
