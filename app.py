@@ -1,5 +1,5 @@
 from flask import Flask
-import python
+import nginx
 
 app = Flask(__name__)
 
